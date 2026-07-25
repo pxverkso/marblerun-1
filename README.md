@@ -13,6 +13,8 @@ I designed the tracks to have the most minimal design, this lets the marble have
 To Build the project, like most of my complicated projects, it's hard to explain how to assemble it as it's much easier for you to visually interact with the model through CAD. So I highly recommend using the Onshape file to guide your assembly. Parts will be provided below. NOTE: You don't need an Onshape account to view Onshape files so do not worry. 
 
 ## [Onshape Link](https://cad.onshape.com/documents/45fae92a061003abf69ca37d/w/e1e236ab83bd6b2975b9e8f0/e/0495cbca63f33bbe08265305?renderMode=0&uiState=6a6433658e69bc520560ea0c)
+## [Youtube Demo](https://youtube.com/shorts/QhQl4fRP16I)
+## [Printables Link](https://www.printables.com/model/1790438-marble-run-with-elevator)
 
 ## Parts
 
